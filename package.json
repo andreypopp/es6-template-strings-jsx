@@ -1,6 +1,6 @@
 {
   "name": "es6-template-strings-jsx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform ES6 Tagged Template Strings with JSX into JS",
   "main": "index.js",
   "directories": {

@@ -19,7 +19,12 @@
     "url": "https://github.com/andreypopp/es6-template-strings-jsx"
   },
   "keywords": [
-    "es6"
+    "es6",
+    "jsx",
+    "template-strings",
+    "transform",
+    "webpack",
+    "webpack-loader"
   ],
   "author": "Andrey Popp <me@andreypopp.com>",
   "license": "MIT",

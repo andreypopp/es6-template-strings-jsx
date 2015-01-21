@@ -12,7 +12,6 @@ function loader(source) {
     this.cacheable();
   }
   var result = transformer.transformString(source);
-  console.log(result);
   return result.code;
 }
 

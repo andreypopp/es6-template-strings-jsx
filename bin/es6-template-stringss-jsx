@@ -1,0 +1,13 @@
+#!/usr/bin/env node
+/**
+ * @copyright 2015, Andrey Popp <me@andreypopp.com>
+ */
+'use strict';
+
+var recast      = require('recast');
+var transformer = require('../');
+
+recast.run(function(node, cb) {
+  transformer.transform(node);
+  cb(node);
+});

@@ -1,0 +1,30 @@
+{
+  "name": "es6-template-strings-jsx",
+  "version": "1.0.0",
+  "description": "Transform ES6 Tagged Template Strings with JSX into JS",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "react-tools": "^0.12.2",
+    "recast": "^0.9.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreypopp/es6-template-strings-jsx"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "Andrey Popp <me@andreypopp.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreypopp/es6-template-strings-jsx/issues"
+  },
+  "homepage": "https://github.com/andreypopp/es6-template-strings-jsx"
+}
